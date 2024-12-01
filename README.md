@@ -14,3 +14,4 @@ https://medium.com/@neel26d/the-edge-awakens-how-large-language-models-are-revol
 
 ## Link to Youtube Video
 
+https://youtu.be/VJWHLhah8ug
